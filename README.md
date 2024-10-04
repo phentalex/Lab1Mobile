@@ -9,3 +9,8 @@
 # Проверка результата
 
 ### Нажать кнопку "Нажми на меня" на главном экране. Проверить текстовый вывод результата.
+
+# Демонстрация работы
+
+![image](https://github.com/user-attachments/assets/cedbb978-0a0f-4915-8c17-bbb3babf4023) ![image](https://github.com/user-attachments/assets/9e94ba3f-d02d-464b-a018-9e487f640f76)
+
